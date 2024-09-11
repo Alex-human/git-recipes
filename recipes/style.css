@@ -1,0 +1,46 @@
+.yellowtitle {
+    color: red;
+    font-family: "Keep On Truckin" sans-serif;
+}
+.underline {
+    background-color: yellow;
+}
+p {
+    font-family: cursive;
+}
+.ulist {
+    color: green;
+    font-weight: 700;
+}
+#redlove {
+    color: red;
+    font-size: larger;
+}
+.olist {
+    color: rgb(from red r g b);
+}
+
+.fabadatitle,
+.secondtitle,
+.thirdtitle,
+.titlepaella,
+.secondtitlep,
+.thirdtitlep {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.fabadalist,
+.ulistp {
+color: green;
+}
+.fabadaolist,
+.olistp {
+    color: green
+}
+.paragraph,
+.paragraphp {
+    font-style: italic;
+    color: brown;
+    font-weight: bold;
+}
